@@ -11,7 +11,7 @@
 1. clone這個專案
 2. 參考這篇文章進行設置，並將json檔放入此專案資料夾內與替換掉檔案中的googlesheet連結
 
-    [](https://www.maxlist.xyz/2018/09/25/python_googlesheet_crud/)
+[](https://www.maxlist.xyz/2018/09/25/python_googlesheet_crud/)
 
 3. 程式碼中 cc.zh.300.bin 取得(可以直接利用該網址下載）
 
